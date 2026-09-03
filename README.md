@@ -60,8 +60,11 @@ The insights can help businesses develop more targeted marketing strategies, imp
 
 Online-Retail-Data-Science-Internship-Task-3/
 │
+
 ├── Online Retail Customer Segmentation.ipynb
+
 ├── Online Retail Dataset.csv
+
 └── README.md
 
 ## 🧠 Skills Demonstrated
